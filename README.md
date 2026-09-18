@@ -67,6 +67,7 @@ Online
 - José Herinque - Gerente de vendas
 - João Victor - Chefe de markting
 - Taislan - Gerente Geral
+- Ari - Gerente finaceiro
 
 ## 🛠️ Plataforma
 
